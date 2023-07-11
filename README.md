@@ -8,7 +8,7 @@
 
 - 🔭 I'm currently a student at CodeSpace Academy
 
-- 📫 How to reach me **dihan.vermeulen12@gmail.com**
+- 📫 How to reach me **dihan.vermeulen@skiff.com**
 
 ## 🚀 Languages and Tools:
 
