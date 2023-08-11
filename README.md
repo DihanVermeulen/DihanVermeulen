@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I'm currently a student at CodeSpace Academy
+- 🔭 I am a Software Engineering graduate at CodeSpace Academy
 
 - 📫 How to reach me **dihan.vermeulen@skiff.com**
 
