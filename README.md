@@ -8,7 +8,7 @@
 
 - 🔭 I am a Software Engineering graduate at CodeSpace Academy
 
-- 📫 How to reach me **dihan.vermeulen@skiff.com**
+- 📫 How to reach me **dihan.vermeulen12@gmail.com**
 
 ## 🚀 Languages and Tools:
 
